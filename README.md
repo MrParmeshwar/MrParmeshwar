@@ -27,7 +27,7 @@ Thanks to these organizations for acknowledging my security research efforts �
 
 ## 🏆 Certifications
 
-- **Google Cybersecurity Professional Certificate** – Coursera  
+- **Google Cybersecurity Professional Certificate** – Coursera 
   🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CP4SKMEYTGUD)
 
 - **Google IT Support Professional Certificate** – Coursera
