@@ -4,7 +4,9 @@ Aspiring cybersecurity professional continuously building hands-on skills throug
 and projects. Currently working as an IT Support Specialist at Deshpande Foundation, with a strong
 foundation in systems, networking, and security fundamentals.
 
-📫 Contact: kanherepamu1909@gmail.com | Linkdin : https://www.linkedin.com/in/parmeshwar-kanhere-19605225b/
+📫 **Contact**  
+📧 [Email](mailto:kanherepamu1909@gmail.com) | 💼 [Linkdin](https://www.linkedin.com/in/parmeshwar-kanhere-19605225b/)
+
 
 
  🛡️ Security Hall of Fame
