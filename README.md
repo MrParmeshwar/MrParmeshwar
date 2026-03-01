@@ -1,13 +1,39 @@
 👋 Hi, I’m Parmeshwar
 
-Aspiring cybersecurity professional continuously building hands-on skills through labs, self-practice,
-and projects. Currently working as an IT Support Specialist at Deshpande Foundation, with a strong
-foundation in systems, networking, and security fundamentals.
+Aspiring cybersecurity professional who is continuously building practical skills through labs, self-learning, and real-world projects.
 
-📫 **Contact**  
+Currently working as an IT Support Specialist at the Deshpande Foundation, where I handle system setup, troubleshooting, and basic network management.
+
+I enjoy setting up home labs to understand how systems work behind the scenes, especially in areas like Linux, Active Directory, log monitoring, and network security.
+
+My goal is to grow step by step into a SOC Analyst and security-focused role by learning through hands-on experience.
+
+<!-- 📫 **Contact**  
 📧 [Email](mailto:kanherepamu1909@gmail.com) | 💼 [Linkdin](https://www.linkedin.com/in/parmeshwar-kanhere-19605225b/)
+-->
+## 💼 Experience
 
+### 🖥️ Information Technology Support Specialist  
+**Deshpande Foundation**  
+*Apr 2025 – Present | Hubli, Karnataka, India*
 
+- Manage and support day-to-day IT infrastructure operations  
+- Set up and configure computer labs, including OS installation and user account creation  
+- Deploy and maintain Document Management Systems (SeedDMS)  
+- Provide technical support for hardware, software, and network-related issues  
+- Assist in maintaining system security and improving IT processes  
+
+---
+
+### 💻 IT Support Specialist (Internship)  
+**Deshpande Skilling**  
+*Sep 2024 – Mar 2025 | Hubli, Karnataka, India*
+
+- Managed and maintained computer systems  
+- Troubleshot and resolved technical issues  
+- Ensured smooth functioning of systems to support daily operations  
+
+---
 
  🛡️ Security Hall of Fame
 
