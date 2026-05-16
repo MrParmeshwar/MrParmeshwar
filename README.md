@@ -34,6 +34,14 @@ My goal is to grow step by step into a SOC Analyst and security-focused role by 
 - Ensured smooth functioning of systems to support daily operations  
 
 ---
+## 🏆 Certifications
+
+- **Google Cybersecurity Professional Certificate** – Coursera 
+  🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CP4SKMEYTGUD)
+
+- **Google IT Support Professional Certificate** – Coursera
+  🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MGVQADJFYW3Y)
+---
 
  🛡️ Security Hall of Fame
 
@@ -52,14 +60,6 @@ Recognized for responsible vulnerability disclosure by:
 | sozlerkosku    | https://sozlerkosku.com/whitehat/ |
 
 Thanks to these organizations for acknowledging my security research efforts 🙂.
-
-## 🏆 Certifications
-
-- **Google Cybersecurity Professional Certificate** – Coursera 
-  🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CP4SKMEYTGUD)
-
-- **Google IT Support Professional Certificate** – Coursera
-  🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MGVQADJFYW3Y)
 
 
 <!---
