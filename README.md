@@ -2,7 +2,7 @@
 
 Aspiring cybersecurity professional who is continuously building practical skills through labs, self-learning, and real-world projects.
 
-Currently working as an IT Support Specialist at the Deshpande Foundation, where I handle system setup, troubleshooting, and basic network management.
+Currently working as an IT Executive at the Astec Valves & fittings pvt ltd , where I handle system setup, troubleshooting, and network management.
 
 I enjoy setting up home labs to understand how systems work behind the scenes, especially in areas like Linux, Active Directory, log monitoring, and network security.
 
@@ -15,7 +15,7 @@ My goal is to grow step by step into a SOC Analyst and security-focused role by 
 
 ### 🖥️ Information Technology Support Specialist  
 **Deshpande Foundation**  
-*Apr 2025 – Present | Hubli, Karnataka, India*
+*Apr 2025 – May 2026 | Hubli, Karnataka, India*
 
 - Manage and support day-to-day IT infrastructure operations  
 - Set up and configure computer labs, including OS installation and user account creation  
